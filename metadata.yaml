@@ -1,10 +1,16 @@
 _repo: Wyllard-s-Weird-A-Novel_50037
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50037-h/images/cover.jpg
 creator:
   author:
     agent_name: Braddon, Mary Elisabeth
     gutenberg_agent_id: '45671'
     url: http://www.gutenberg.org/2009/agents/45671
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50037#Wyllard-s-Weird-A-Novel
 gutenberg_issued: '2015-09-22'
 gutenberg_type: Text
 identifiers:
